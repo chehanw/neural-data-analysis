@@ -1,0 +1,14 @@
+name: neural-data-analysis
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.10
+- ipython
+- jupyter
+- matplotlib
+- scipy
+- numpy
+- statsmodels
+- nitime
+- jupyterlab
